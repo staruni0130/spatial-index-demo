@@ -1,0 +1,17 @@
+<-----------------------------------libraries version----------------------------------->
+
+python==3.8.2
+numpy==1.20.1
+sklearn==0.24.1
+pandas==1.2.4
+shapely==1.8.2
+re==2.2.1
+geopandas==0.6.1
+rtree==0.9.7
+
+<--------------------------------------code comment-------------------------------------->
+
+using sklearn.Neighbors.KDTree to index task1, task2, and task5
+using rtree to index task3 and task4 
+
+each task calls a relative function
